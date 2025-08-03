@@ -401,3 +401,5 @@ Thumbs.db
 # Package manager
 *.nuget.props
 *.nuget.targets
+obj/Debug/net9.0/ImageCompressionAPI.AssemblyInfo.cs
+obj/Debug/net9.0/ImageCompressionAPI.AssemblyInfoInputs.cache
