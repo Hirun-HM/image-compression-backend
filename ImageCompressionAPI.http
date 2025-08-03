@@ -1,0 +1,6 @@
+@ImageCompressionAPI_HostAddress = http://localhost:5174
+
+GET {{ImageCompressionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
